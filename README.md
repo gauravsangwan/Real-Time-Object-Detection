@@ -1,6 +1,21 @@
+# Real Time Object Detection Using ReactJS and TensorFlowJS
+
+This Project uses a pre-trained Object Detection Model from TensorFlow JS.
+Object Detection model aims to localize and identify multiple objects in a single image. It is a Tensorflow.js port of COCO-SSD model.
+
+Whereas for react basic react is used to make a place to show the process in realtime using webcam.
+
+Here is a sample image from first run:
+
+![alt text](https://github.com/gauravsangwan/Real-Time-Object-Detection/blob/master/realtimeobjec.png?raw=true)
+
+
+
+# Appendix
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Available Scripts
 
 In the project directory, you can run:
 
